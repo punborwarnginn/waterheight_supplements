@@ -30,3 +30,7 @@ All data are right skewed
 # Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE)
 
 ![Alt text](/errorrate_.png?raw=true "errorrate_")
+
+# Sample actual and predicted value with the test input data
+<img src="/rnn12hr_pred_12hr.gif" width=80%>
+<img src="/rbf_rnn12hr_pred_12hr.gif" width=80%>
