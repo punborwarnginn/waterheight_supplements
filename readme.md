@@ -3,7 +3,7 @@ This is the supplementary page for paper "Predicting River Water Height using De
 ### Missing Values Visualisation
 ![Alt text](/check_missingvalues.png?raw=true "Check_missingvalues")
 
-This is no missing value in the sample data
+There is no missing value in the dataset
 
 ### Correlation
 ![Alt text](/correlation.png?raw=true "correlation")
