@@ -33,6 +33,21 @@ All data are right skewed
 
 # Sample actual and predicted value with the test input data
 
+### 6 hours predicted water heights compared with their actual values given 6 hours of historical data
+
+<p align="center">
+  <img src="/6hr_pred_6hr.gif" width=80%></p>
+  <p align="center">
+(a) LSTM
+
+
+<p align="center">
+  <img src="/rbf_rnn6hr_pred_6hr.gif" width=80%></p>
+  <p align="center">
+(b) LSTM with SVR using RBF kernel
+</p>
+
+
 ### 12 hours predicted water heights compared with their actual values given 12 hours of historical data
 
 <p align="center">
