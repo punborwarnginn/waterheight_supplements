@@ -44,8 +44,33 @@ All data are right skewed
 <p align="center">
   <img src="/rbf_rnn12hr_pred_12hr.gif" width=80%></p>
   <p align="center">
-(a) LSTM with SVR using RBF kernel
+(b) LSTM with SVR using RBF kernel
 </p>
 
 # Training and testing losses
+<p align="center">
+  <img src="/6_6.png" width=52%></p>
+  <p align="center">
+(a) 6 hours of data to predict 6 hours ahead
+
+
+<p align="center">
+  <img src="/6_12.png" width=50%> </p>
+  <p align="center">
+(b) 6 hours of data to predict 12 hours ahead
+
+  <p align="center">
+  <img src="/12_6.png" width=50%> </p>
+  <p align="center">
+(c) 12 hours of data to predict 6 hours ahead
+
+  
+  <p align="center">
+  <img src="/12_12.png" width=50%> </p>
+  <p align="center">
+(d) 12 hours of data to predict 12 hours ahead
+
+  
+  
+</p>
 
