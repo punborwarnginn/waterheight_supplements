@@ -27,7 +27,7 @@ All data are right skewed
 (b) River water height over time 
 </p>
 
-# Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE)
+# Error results of 6 hours and 12 hours models
 
 ![Alt text](/errorrate_.png?raw=true "errorrate_")
 
