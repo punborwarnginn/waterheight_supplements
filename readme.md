@@ -32,5 +32,17 @@ All data are right skewed
 ![Alt text](/errorrate_.png?raw=true "errorrate_")
 
 # Sample actual and predicted value with the test input data
-<img src="/rnn12hr_pred_12hr.gif" width=80%>
-<img src="/rbf_rnn12hr_pred_12hr.gif" width=80%>
+
+### 12 hours predicted water heights compared with their actual values given 12 hours of historical data
+
+<p align="center">
+  <img src="/rnn12hr_pred_12hr.gif" width=80%></p>
+  <p align="center">
+(a) LSTM
+
+
+<p align="center">
+  <img src="/rbf_rnn12hr_pred_12hr.gif" width=80%></p>
+  <p align="center">
+(a) LSTM with SVR using RBF kernel
+</p>
