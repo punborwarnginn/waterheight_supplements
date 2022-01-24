@@ -46,3 +46,6 @@ All data are right skewed
   <p align="center">
 (a) LSTM with SVR using RBF kernel
 </p>
+
+# Training and testing losses
+
