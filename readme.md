@@ -26,3 +26,7 @@ All data are right skewed
 <p align="center">
 (b) River water height over time 
 </p>
+
+# Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Square Error (RMSE)
+
+![Alt text](/errorrate_.png?raw=true "errorrate_")
