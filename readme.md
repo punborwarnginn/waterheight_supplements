@@ -15,4 +15,14 @@ Water height has a positive correlation with cumulative rain, while cumulative r
 
 All data are right skewed
 
-# Sample data of cumulative rainfall (a) and river water height (b)
+# Sample data of rainfall (a) and river water height (b)
+
+<img src="/fig2a.jpg" width=100%>
+<p align="center">
+(a) Cumulative rainfall and instantaneous over time
+</p>
+
+<img src="/fig2b.jpg" width=94%>
+<p align="center">
+(b) River water height over time 
+</p>
